@@ -1,0 +1,22 @@
+[build-system]
+requires=["setuptools>=77"]
+build-backend="setuptools.build_meta"
+[project]
+authors = [{name = "Matthew D. Webb", email = "matt.webb@carleton.ca"}]
+readme = "README.md"
+license = "MIT"
+name="fastflexpy"
+version="0.2.0"
+description="Independent lags-only FLEX with state-clustered inference"
+requires-python=">=3.10"
+dependencies=["numpy>=1.24"]
+[tool.setuptools.packages.find]
+where=["src"]
+
+[project.optional-dependencies]
+examples = ["pandas>=2"]
+test = ["pytest>=7", "scipy", "pandas"]
+
+[project.urls]
+Repository = "https://github.com/mattdwebb/fastflexpy"
+Issues = "https://github.com/mattdwebb/fastflexpy/issues"

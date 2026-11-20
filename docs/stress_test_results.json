@@ -1,0 +1,314 @@
+[
+  {
+    "case": 0,
+    "status": "pass",
+    "point_error": 2.0816681711721685e-16,
+    "component_error": 3.9968028886505635e-15,
+    "weight_error": 0.0,
+    "native_se_error": 0.0,
+    "jackknife_deletion_error": 7.771561172376096e-16,
+    "placebo_inner_p_error": 2.9976021664879227e-15,
+    "native_weighted": "pass"
+  },
+  {
+    "case": 1,
+    "status": "pass",
+    "point_error": 4.440892098500626e-16,
+    "component_error": 1.0880185641326534e-14,
+    "weight_error": 0.0,
+    "native_se_error": 6.661338147750939e-16,
+    "jackknife_deletion_error": 2.6645352591003757e-15,
+    "placebo_inner_p_error": 5.995204332975845e-15,
+    "native_weighted": "pass"
+  },
+  {
+    "case": 2,
+    "status": "pass",
+    "point_error": 1.1102230246251565e-15,
+    "component_error": 2.5979218776228663e-14,
+    "weight_error": 0.0,
+    "native_se_error": 5.551115123125783e-17,
+    "jackknife_deletion_error": 8.881784197001252e-16,
+    "placebo_inner_p_error": 2.1094237467877974e-15,
+    "native_weighted": "pass"
+  },
+  {
+    "case": 3,
+    "status": "pass",
+    "point_error": 1.6209256159527285e-14,
+    "component_error": 1.652011860642233e-13,
+    "weight_error": 0.0,
+    "native_se_error": 7.993605777301127e-15,
+    "jackknife_deletion_error": 1.8984813721090177e-14,
+    "placebo_inner_p_error": 2.1094237467877974e-14,
+    "native_weighted": "pass"
+  },
+  {
+    "case": 4,
+    "status": "pass",
+    "point_error": 1.6653345369377348e-16,
+    "component_error": 2.6645352591003757e-15,
+    "weight_error": 0.0,
+    "native_se_error": 2.7755575615628914e-16,
+    "jackknife_deletion_error": 1.609823385706477e-15,
+    "placebo_inner_p_error": 6.661338147750939e-16,
+    "native_weighted": "pass"
+  },
+  {
+    "case": 5,
+    "status": "pass",
+    "point_error": 4.996003610813204e-16,
+    "component_error": 7.882583474838611e-15,
+    "weight_error": 0.0,
+    "native_se_error": 3.3306690738754696e-16,
+    "jackknife_deletion_error": 2.67841304690819e-15,
+    "placebo_inner_p_error": 6.439293542825908e-15,
+    "native_weighted": "pass"
+  },
+  {
+    "case": 6,
+    "status": "pass",
+    "point_error": 7.771561172376096e-16,
+    "component_error": 1.2351231148954867e-14,
+    "weight_error": 0.0,
+    "native_se_error": 2.7755575615628914e-16,
+    "jackknife_deletion_error": 1.887379141862766e-15,
+    "placebo_inner_p_error": 2.55351295663786e-15,
+    "native_weighted": "pass"
+  },
+  {
+    "case": 7,
+    "status": "pass",
+    "point_error": 1.3322676295501878e-15,
+    "component_error": 5.9396931817445875e-15,
+    "weight_error": 0.0,
+    "native_se_error": 2.7755575615628914e-17,
+    "jackknife_deletion_error": 1.7763568394002505e-15,
+    "placebo_inner_p_error": 1.5543122344752192e-15,
+    "native_weighted": "pass"
+  },
+  {
+    "case": 8,
+    "status": "pass",
+    "point_error": 9.71445146547012e-17,
+    "component_error": 3.552713678800501e-15,
+    "weight_error": 0.0,
+    "native_se_error": 5.551115123125783e-17,
+    "jackknife_deletion_error": 9.992007221626409e-16,
+    "placebo_inner_p_error": 6.661338147750939e-16,
+    "native_weighted": "pass"
+  },
+  {
+    "case": 9,
+    "status": "pass",
+    "point_error": 6.727951529228449e-14,
+    "component_error": 6.821210263296962e-13,
+    "weight_error": 0.0,
+    "native_se_error": 2.958744360626042e-14,
+    "jackknife_deletion_error": 1.0746958878371515e-13,
+    "placebo_inner_p_error": 1.1746159600534156e-13,
+    "native_weighted": "pass"
+  },
+  {
+    "case": 10,
+    "status": "pass",
+    "point_error": 1.1102230246251565e-16,
+    "component_error": 3.774758283725532e-15,
+    "weight_error": 0.0,
+    "native_se_error": 0.0,
+    "jackknife_deletion_error": 2.0261570199409107e-15,
+    "placebo_inner_p_error": 1.2212453270876722e-15,
+    "native_weighted": "pass"
+  },
+  {
+    "case": 11,
+    "status": "pass",
+    "point_error": 4.440892098500626e-16,
+    "component_error": 1.3766765505351941e-14,
+    "weight_error": 0.0,
+    "native_se_error": 5.551115123125783e-16,
+    "jackknife_deletion_error": 4.218847493575595e-15,
+    "placebo_inner_p_error": 2.5091040356528538e-14,
+    "native_weighted": "pass"
+  },
+  {
+    "case": 12,
+    "status": "pass",
+    "point_error": 3.885780586188048e-16,
+    "component_error": 1.4377388168895777e-14,
+    "weight_error": 0.0,
+    "native_se_error": 2.7755575615628914e-16,
+    "jackknife_deletion_error": 7.771561172376096e-16,
+    "placebo_inner_p_error": 2.9976021664879227e-15,
+    "native_weighted": "pass"
+  },
+  {
+    "case": 13,
+    "status": "pass",
+    "point_error": 7.771561172376096e-16,
+    "component_error": 2.4424906541753444e-14,
+    "weight_error": 0.0,
+    "native_se_error": 6.938893903907228e-16,
+    "jackknife_deletion_error": 1.3322676295501878e-15,
+    "placebo_inner_p_error": 3.552713678800501e-15,
+    "native_weighted": "pass"
+  },
+  {
+    "case": 14,
+    "status": "pass",
+    "point_error": 1.2490009027033011e-15,
+    "component_error": 7.716050021144838e-15,
+    "weight_error": 0.0,
+    "native_se_error": 0.0,
+    "jackknife_deletion_error": 8.049116928532385e-16,
+    "placebo_inner_p_error": 1.9984014443252818e-15,
+    "native_weighted": "pass"
+  },
+  {
+    "case": 15,
+    "status": "pass",
+    "point_error": 5.551115123125783e-16,
+    "component_error": 7.549516567451064e-15,
+    "weight_error": 0.0,
+    "native_se_error": 6.661338147750939e-16,
+    "jackknife_deletion_error": 3.1086244689504383e-15,
+    "placebo_inner_p_error": 5.53113110868253e-13,
+    "native_weighted": "pass"
+  },
+  {
+    "case": 16,
+    "status": "pass",
+    "point_error": 5.551115123125783e-16,
+    "component_error": 7.771561172376096e-15,
+    "weight_error": 0.0,
+    "native_se_error": 3.3306690738754696e-16,
+    "jackknife_deletion_error": 1.3322676295501878e-15,
+    "placebo_inner_p_error": 9.992007221626409e-16,
+    "native_weighted": "pass"
+  },
+  {
+    "case": 17,
+    "status": "pass",
+    "point_error": 1.1102230246251565e-15,
+    "component_error": 2.398081733190338e-14,
+    "weight_error": 0.0,
+    "native_se_error": 2.220446049250313e-16,
+    "jackknife_deletion_error": 6.5503158452884236e-15,
+    "placebo_inner_p_error": 3.774758283725532e-15,
+    "native_weighted": "pass"
+  },
+  {
+    "case": 18,
+    "status": "pass",
+    "point_error": 1.1102230246251565e-16,
+    "component_error": 2.842170943040401e-14,
+    "weight_error": 0.0,
+    "native_se_error": 0.0,
+    "jackknife_deletion_error": 2.0539125955565396e-15,
+    "placebo_inner_p_error": 1.7763568394002505e-15,
+    "native_weighted": "pass"
+  },
+  {
+    "case": 19,
+    "status": "pass",
+    "point_error": 1.1102230246251565e-15,
+    "component_error": 5.329070518200751e-15,
+    "weight_error": 0.0,
+    "native_se_error": 2.7755575615628914e-16,
+    "jackknife_deletion_error": 1.5543122344752192e-15,
+    "placebo_inner_p_error": 3.6637359812630166e-15,
+    "native_weighted": "pass"
+  },
+  {
+    "case": 20,
+    "status": "pass",
+    "point_error": 6.661338147750939e-16,
+    "component_error": 2.2315482794965646e-14,
+    "weight_error": 0.0,
+    "native_se_error": 4.996003610813204e-16,
+    "jackknife_deletion_error": 1.1102230246251565e-15,
+    "placebo_inner_p_error": 1.2212453270876722e-15,
+    "native_weighted": "pass"
+  },
+  {
+    "case": 21,
+    "status": "pass",
+    "point_error": 1.3322676295501878e-15,
+    "component_error": 5.329070518200751e-15,
+    "weight_error": 0.0,
+    "native_se_error": 2.220446049250313e-16,
+    "jackknife_deletion_error": 3.2751579226442118e-15,
+    "placebo_inner_p_error": 1.2073675392798577e-15,
+    "native_weighted": "pass"
+  },
+  {
+    "case": 22,
+    "status": "pass",
+    "point_error": 8.326672684688674e-16,
+    "component_error": 4.884981308350689e-15,
+    "weight_error": 0.0,
+    "native_se_error": 1.1102230246251565e-16,
+    "jackknife_deletion_error": 2.220446049250313e-15,
+    "placebo_inner_p_error": 8.881784197001252e-16,
+    "native_weighted": "pass"
+  },
+  {
+    "case": 23,
+    "status": "pass",
+    "point_error": 2.0106138975961585e-13,
+    "component_error": 2.4726887204451486e-12,
+    "weight_error": 0.0,
+    "native_se_error": 2.55351295663786e-15,
+    "jackknife_deletion_error": 3.056443986793056e-13,
+    "placebo_inner_p_error": 1.0513812043200232e-13,
+    "native_weighted": "pass"
+  },
+  {
+    "case": 24,
+    "status": "pass",
+    "point_error": 2.942091015256665e-15,
+    "component_error": 1.3988810110276972e-14,
+    "weight_error": 0.0,
+    "native_se_error": 3.0531133177191805e-16,
+    "jackknife_deletion_error": 8.132383655379272e-15,
+    "placebo_inner_p_error": 7.216449660063518e-15,
+    "native_weighted": "pass"
+  },
+  {
+    "case": 25,
+    "status": "expected failure",
+    "reason": "last treated school deletion",
+    "point_error": 2.6645352591003757e-15
+  },
+  {
+    "case": 26,
+    "status": "identified margin with redundant slope"
+  },
+  {
+    "case": 27,
+    "status": "pass",
+    "point_error": 1.5543122344752192e-15,
+    "component_error": 1.0547118733938987e-14,
+    "weight_error": 0.0,
+    "native_se_error": null,
+    "jackknife_deletion_error": 2.1094237467877974e-15,
+    "placebo_inner_p_error": 4.718447854656915e-15,
+    "native_weighted": "N/A"
+  },
+  {
+    "case": 28,
+    "status": "pass",
+    "point_error": 5.551115123125783e-16,
+    "component_error": 3.552713678800501e-15,
+    "weight_error": 2.7755575615628914e-17,
+    "native_se_error": null,
+    "jackknife_deletion_error": 1.4432899320127035e-15,
+    "placebo_inner_p_error": 1.3322676295501878e-15,
+    "native_weighted": "N/A"
+  },
+  {
+    "case": 29,
+    "status": "expected failure",
+    "reason": "no treated states"
+  }
+]

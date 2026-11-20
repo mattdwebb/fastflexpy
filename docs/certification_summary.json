@@ -1,0 +1,18 @@
+{
+  "stress_designs": 30,
+  "stress_pass": 27,
+  "expected_failures": 3,
+  "unexpected_failures": 0,
+  "official_native_passed": 6,
+  "official_native_nonuniform_weight_na": 2,
+  "max_official_point_error": 6.661338147750939e-16,
+  "max_official_se_error": 2.0539125955565396e-15,
+  "max_official_p_error": 5.366800753803247e-17,
+  "max_fast_reference_point_error": 2.0805579481475434e-13,
+  "max_native_fast_reference_error": 3.752553823233029e-14,
+  "max_jackknife_deletion_error": 3.064215547965432e-13,
+  "max_placebo_inner_p_error": 5.058176100192213e-13,
+  "max_historical_fast_error": 1.2008172234345693e-12,
+  "processes": 8,
+  "exact_process_equality": true
+}

@@ -1,0 +1,13 @@
+{
+  "processes": 8,
+  "designs": 8,
+  "exact_serial_parallel": true,
+  "procedures": [
+    "point",
+    "native",
+    "JK",
+    "RI",
+    "Replace",
+    "Subtract"
+  ]
+}

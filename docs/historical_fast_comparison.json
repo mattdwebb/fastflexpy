@@ -1,0 +1,56 @@
+[
+  {
+    "replication": 1,
+    "DGP": "dgp1_no_x",
+    "fast": -0.40610188268341046,
+    "reference": -0.40610188268374114,
+    "stored": -0.4061018826828904,
+    "fast_stored_error": 5.200839758856546e-13,
+    "reference_stored_error": 8.507639037702575e-13
+  },
+  {
+    "replication": 1,
+    "DGP": "dgp5_state_time_ipt",
+    "fast": -35.16555183692135,
+    "reference": -35.16555183692121,
+    "stored": -35.16555183692015,
+    "fast_stored_error": 1.2008172234345693e-12,
+    "reference_stored_error": 1.0587086762825493e-12
+  },
+  {
+    "replication": 1,
+    "DGP": "dgp7_treatment_effect_x",
+    "fast": 11.917802199569307,
+    "reference": 11.917802199569257,
+    "stored": 11.917802199569804,
+    "fast_stored_error": 4.973799150320701e-13,
+    "reference_stored_error": 5.471179065352771e-13
+  },
+  {
+    "replication": 2,
+    "DGP": "dgp1_no_x",
+    "fast": 0.5367700085402757,
+    "reference": 0.5367700085400335,
+    "stored": 0.5367700085396678,
+    "fast_stored_error": 6.078471059822732e-13,
+    "reference_stored_error": 3.6570746431152656e-13
+  },
+  {
+    "replication": 2,
+    "DGP": "dgp5_state_time_ipt",
+    "fast": -34.222679945697514,
+    "reference": -34.222679945697614,
+    "stored": -34.22267994569645,
+    "fast_stored_error": 1.0658141036401503e-12,
+    "reference_stored_error": 1.1652900866465643e-12
+  },
+  {
+    "replication": 2,
+    "DGP": "dgp7_treatment_effect_x",
+    "fast": 12.860674090793305,
+    "reference": 12.860674090793339,
+    "stored": 12.860674090793378,
+    "fast_stored_error": 7.283063041541027e-14,
+    "reference_stored_error": 3.907985046680551e-14
+  }
+]

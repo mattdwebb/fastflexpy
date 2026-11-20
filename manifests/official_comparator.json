@@ -1,0 +1,19 @@
+{
+  "flexdid.ado": {
+    "path": "historical-source/flexdid.ado",
+    "sha256": "3df2a55f47207bb583530742da477e80e63392ae92b9441d89f0cfbd5fb5962d"
+  },
+  "flexdid_atet.ado": {
+    "path": "historical-source/flexdid_atet.ado",
+    "sha256": "26c06e91f896e99accd4e001253ae9706807d4c531de46df38776e219f99cc2b"
+  },
+  "flexdid_estat.ado": {
+    "path": "historical-source/flexdid_estat.ado",
+    "sha256": "1a149134f0f35caa97bd0e7753f7ce9b271320f20bd02d5245ae013c765e846f"
+  },
+  "version": "2.5 06jun2026",
+  "stata": "Stata 18 SE",
+  "method": "lags_only, cluster(state), unconditional margins",
+  "source": "https://ideas.repec.org/c/boc/bocode/s459517.html",
+  "user_authorization": "Yes, add their original clustering"
+}

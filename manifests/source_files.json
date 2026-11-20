@@ -1,0 +1,156 @@
+[
+  {
+    "path": "historical-source/canonical_aggregation.py",
+    "role": "historical import dependency",
+    "sha256": "012c6009ce1e792732cea1311c145d8dbab70bbf74bf8575251ce54856c5bc73",
+    "bytes": 16616,
+    "modified_utc": "2026-08-25T13:15:43.082451+00:00"
+  },
+  {
+    "path": "historical-source/__init__.py",
+    "role": "historical import dependency",
+    "sha256": "5ac3bc614bffbd9bbd2c62311420dd9aa33167c76ee6a66dd9cb66394834bac7",
+    "bytes": 357,
+    "modified_utc": "2026-08-23T19:34:09.515678+00:00"
+  },
+  {
+    "path": "historical-source/fast_flex.py",
+    "role": "authoritative source",
+    "sha256": "10b18dc8d960e3d45d0c89a6239bb702394b10da3c2abbdc902481069653a56c",
+    "bytes": 9730,
+    "modified_utc": "2026-08-23T20:03:25.963371+00:00"
+  },
+  {
+    "path": "historical-source/fast_bjs.py",
+    "role": "historical import dependency",
+    "sha256": "77bcee7d760946261cef5430ca6c07a18ff036a9eb828e1f9b70ad02eac571cd",
+    "bytes": 8246,
+    "modified_utc": "2026-08-23T19:35:55.250962+00:00"
+  },
+  {
+    "path": "historical-source/estimator_cache.py",
+    "role": "historical import dependency",
+    "sha256": "c8dc3dc4cbb513b3f036df1bfab625bc9c08f1bef2693e2f20994043a308ee87",
+    "bytes": 5488,
+    "modified_utc": "2026-08-23T19:34:14.431355+00:00"
+  },
+  {
+    "path": "historical-source/estimator_result.py",
+    "role": "historical import dependency",
+    "sha256": "acf2eaabd3c3027b66fd5105b441d930d49260189354e37f43717e9b526fc80b",
+    "bytes": 839,
+    "modified_utc": "2026-08-23T19:34:12.202929+00:00"
+  },
+  {
+    "path": "historical-source/run_expanded_didint_pilot.py",
+    "role": "provenance evidence",
+    "sha256": "3842b72388676f7db95c15a97d22d2612d8fc46962fb02930bbc414d187fcdba",
+    "bytes": 40575,
+    "modified_utc": "2026-08-24T16:53:43+00:00"
+  },
+  {
+    "path": "historical-source/run_known_dgp_didint.py",
+    "role": "provenance evidence",
+    "sha256": "35160ccbc39f4719f4701d6db77cc9fcc2c7685b83a8e473aeaf47832ef68287",
+    "bytes": 11839,
+    "modified_utc": "2026-08-23T05:04:03.837082+00:00"
+  },
+  {
+    "path": "historical-source/flex_reference.do",
+    "role": "provenance evidence",
+    "sha256": "b0aa492151dafc7720e9b01d37ddc4bad9dddd14f3f75d610655e388d38a88c1",
+    "bytes": 1339,
+    "modified_utc": "2026-08-24T02:58:55.192056+00:00"
+  },
+  {
+    "path": "historical-source/run_metadata.json",
+    "role": "provenance evidence",
+    "sha256": "c963b17e65fc02a218e4c2b4cffe22c0df5c18c4b80ba3ad4c5da11d03158946",
+    "bytes": 2183,
+    "modified_utc": "2026-08-25T12:26:27+00:00"
+  },
+  {
+    "path": "historical-source/report.md",
+    "role": "provenance evidence",
+    "sha256": "fe265e621c486e8dfad9bafd515d57628f09384be1683f958970594df9c902ad",
+    "bytes": 13598,
+    "modified_utc": "2026-08-25T12:26:27+00:00"
+  },
+  {
+    "path": "historical-source/design_metadata.json",
+    "role": "provenance evidence",
+    "sha256": "7f00db97218eb85b701b26ac02ae2702e0d73ed476df0c38f937c80bf39c15b0",
+    "bytes": 3274,
+    "modified_utc": "2026-08-24T16:55:53+00:00"
+  },
+  {
+    "path": "historical-source/simulation_design_manifest.csv",
+    "role": "provenance evidence",
+    "sha256": "a1f1a02421ecc4c095c8ed894582a70a3dbc2628f871e0b7fdfd418981f6a5c2",
+    "bytes": 599029,
+    "modified_utc": "2026-08-24T16:55:52+00:00"
+  },
+  {
+    "path": "historical-source/source_panel.csv",
+    "role": "provenance evidence",
+    "sha256": "4ca7075f4957cc0886c6125dc2dc2fa909124121ebc388a336a0b563824ffa37",
+    "bytes": 1398597,
+    "modified_utc": "2026-08-24T16:55:52+00:00"
+  },
+  {
+    "path": "historical-source/flexmaker (Matt Webb's conflicted copy 2024-10-24).ado",
+    "role": "alternative Stata implementation; not Python production import",
+    "sha256": "ba640adc7407b89ad2154ba4ac74b9ce37d719c86256c99e0e98cd9af918531f",
+    "bytes": 9213,
+    "modified_utc": "2024-10-21T18:52:20+00:00"
+  },
+  {
+    "path": "historical-source/flexmaker.ado",
+    "role": "alternative Stata implementation; not Python production import",
+    "sha256": "d56b904b80b0cb75ddac4311d74a37247a0b199bfd52bd301c6c09d6d0ff049f",
+    "bytes": 9313,
+    "modified_utc": "2024-10-22T14:21:04.234505+00:00"
+  },
+  {
+    "path": "historical-source/flexmaker.ado",
+    "role": "alternative Stata implementation; not Python production import",
+    "sha256": "ba640adc7407b89ad2154ba4ac74b9ce37d719c86256c99e0e98cd9af918531f",
+    "bytes": 9213,
+    "modified_utc": "2025-03-03T21:05:21+00:00"
+  },
+  {
+    "path": "historical-source/flexmaker.ado",
+    "role": "alternative Stata implementation; not Python production import",
+    "sha256": "ba640adc7407b89ad2154ba4ac74b9ce37d719c86256c99e0e98cd9af918531f",
+    "bytes": 9213,
+    "modified_utc": "2025-03-03T21:04:21+00:00"
+  },
+  {
+    "path": "historical-source/flexmaker.ado",
+    "role": "alternative Stata implementation; not Python production import",
+    "sha256": "ba640adc7407b89ad2154ba4ac74b9ce37d719c86256c99e0e98cd9af918531f",
+    "bytes": 9213,
+    "modified_utc": "2026-08-21T16:40:59+00:00"
+  },
+  {
+    "path": "historical-source/flexmaker.ado",
+    "role": "alternative Stata implementation; not Python production import",
+    "sha256": "ba640adc7407b89ad2154ba4ac74b9ce37d719c86256c99e0e98cd9af918531f",
+    "bytes": 9213,
+    "modified_utc": "2024-10-22T21:35:04+00:00"
+  },
+  {
+    "path": "historical-source/fast_flex.cpython-310.pyc",
+    "role": "bytecode provenance only; readable source takes precedence",
+    "sha256": "53aea4a30339d68664596d8c2527b6c77d852f218e98354729719d871e69f28b",
+    "bytes": 6903,
+    "modified_utc": "2026-08-24T03:31:40.245892+00:00"
+  },
+  {
+    "path": "historical-source/fast_flex.cpython-312.pyc",
+    "role": "bytecode provenance only; readable source takes precedence",
+    "sha256": "03303ca4d92b42b7071494161f896e1f36cde1769cef5e13717e895167fe6fe2",
+    "bytes": 12988,
+    "modified_utc": "2026-08-24T03:17:30.179178+00:00"
+  }
+]

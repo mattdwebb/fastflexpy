@@ -1,0 +1,9 @@
+{
+  "package": "fastflexpy",
+  "estimate": 2.297806673755806,
+  "native_se": 0.30306835376556157,
+  "jackknife_se": 0.328888603195264,
+  "jackknife_p": 2.3097172104062324e-05,
+  "clusters": 12,
+  "jackknife_df": 11
+}

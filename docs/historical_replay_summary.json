@@ -1,0 +1,14 @@
+{
+  "saved_replications_replayed": 2,
+  "DGPs_per_replication": 3,
+  "fits": 6,
+  "components": 180,
+  "new_simulated_replications": 0,
+  "max_point_abs_difference": 3.552713678800501e-12,
+  "max_component_abs_difference": 1.446665010007564e-11,
+  "max_weight_abs_difference": 1.0061396160665481e-16,
+  "native_inference_comparison": "not available in specified stored results",
+  "numpy": "2.4.6",
+  "pandas": "3.0.5",
+  "python": "3.14.4 (tags/v3.14.4:23116f9, Apr  7 2026, 14:10:54) [MSC v.1944 64 bit (AMD64)]"
+}
